@@ -74,3 +74,4 @@ export class RadixTree<T> {
     return this.#tree;
   }
 }
+//  biome-ignore-all: lint/style/noParameterAssign

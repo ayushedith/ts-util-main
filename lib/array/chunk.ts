@@ -1,5 +1,5 @@
 /**
- * Chunks an array into an array of arrays with max length `chunkSize`
+ * Chunks an array into an array of arrays with max size.
  * @param list the array to chunk
  * @param chunkSize the max size of a chunk
  * @returns the chunked array

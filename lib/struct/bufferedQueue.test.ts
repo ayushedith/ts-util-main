@@ -76,3 +76,4 @@ describe('struct/BufferedQueue', async () => {
     strictEqual(fn.mock.callCount(), 2);
   });
 });
+// # sourceMappingURL=bufferedQueue.test.js.map

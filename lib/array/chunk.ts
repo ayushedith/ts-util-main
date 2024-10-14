@@ -11,3 +11,4 @@ export const chunk = <T>(list: T[], chunkSize: number): T[][] =>
     acc[cn].push(curr);
     return acc;
   }, [] as T[][]);
+// # sourceMappingURL=chunk.js.map

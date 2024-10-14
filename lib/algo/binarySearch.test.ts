@@ -16,7 +16,7 @@ describe('algo/binarySearch', () => {
     strictEqual(idx7, null);
   });
 });
-
+// biome-ignore lint/style/noParameterAssign: i want it
 describe('algo/binarySearchBy', () => {
   it('should find the object value', () => {
     const hs = [{a: 0}, {a: 2}, {a: 3}, {a: 4}];

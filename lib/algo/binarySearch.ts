@@ -16,6 +16,7 @@ export const binarySearchBy = <T, U>(
     if (key(haystack[m]) === needle) {
       return m;
     }
+    // biome-ignore lint/style/noParameterAssign: i want it
 
     if (key(haystack[m]) > needle) {
       r = m - 1;

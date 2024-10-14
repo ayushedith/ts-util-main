@@ -46,3 +46,4 @@ describe('array/chunk', () => {
     ]);
   });
 });
+// biome-ignore lint/style/noParameterAssign: i want it
